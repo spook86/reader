@@ -1,0 +1,19 @@
+{
+  "name": "reader",
+  "version": "1.0.0",
+  "description": "手机阅读器",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.oschina.net:spook86/reader.git"
+  },
+  "author": "小坏",
+  "license": "ISC",
+  "dependencies": {
+    "normalize.css": "^5.0.0",
+    "zepto": "^1.2.0"
+  }
+}
